@@ -19,7 +19,7 @@ bc.. public static void allProducts() {
 
 h2. <a name="api">La API de la cache</a>
 
-La API de la cache está incluida en la clase @play.cache.Cache@. Esta clase contiene un conjunto de métodos que le permite colocar, sustituir y extraer datos de la cache. El comportamiento exacto de cada método puedes consultarlo en la documentación de Memcached.
+La API de la cache está en la clase @play.cache.Cache@. Esta clase contiene un conjunto de métodos que le permite colocar, sustituir y extraer datos de la cache. El comportamiento exacto de cada método puedes consultarlo en la documentación de Memcached.
 
 Algunos ejemplos:
 
